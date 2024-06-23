@@ -1,0 +1,45 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+}
+.brand{
+    color: white;
+   margin: 10px;
+}
+nav{
+    margin: 10px;
+    color: white;
+}
+a{
+    text-decoration: none;
+    color: rgb(242, 242, 242);
+}
+a:hover{
+    text-decoration: none;
+    color: rgb(255, 247, 0);
+}
+h1{
+    color: rgb(0, 0, 0);
+    margin: 10px;
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h2{
+    color: rgb(255, 0, 0);
+    margin: 10px;
+    font-size: 21px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.img{
+    display: flex;
+    margin: 10px;
+}
+p{
+    font-size: 40px;
+    margin: 10px;
+}
+em{
+    margin: 10px;
+    color: red;
+}
